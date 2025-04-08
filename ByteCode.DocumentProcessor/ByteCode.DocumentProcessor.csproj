@@ -10,8 +10,8 @@
   <Company>ByteCode</Company>
   <Description>Placeholder for ByteCode.DocumentProcessor package. Reserved namespace.</Description>
   <PackageTags>ByteCode;Framework;DocumentProcessor</PackageTags>
-  <PackageProjectUrl>https://yourdomain.com</PackageProjectUrl>
-  <RepositoryUrl>https://github.com/yourgithuborg/bytestrone</RepositoryUrl>
+  <PackageProjectUrl>https://github.com/Sreejith75/ByteCore</PackageProjectUrl>
+  <RepositoryUrl>https://github.com/Sreejith75/ByteCore</RepositoryUrl>
   <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
